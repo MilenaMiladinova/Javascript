@@ -1,4 +1,4 @@
-Hayden Bleasel design Vers.1.0
+Hayden Bleasel design v1.0
 
  * Без стилизация и изображения.
  * С именувани елементи, добавени ID и CLASS идентификатори
